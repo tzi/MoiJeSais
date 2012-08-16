@@ -1,10 +1,11 @@
 <?php
 	require( 'utils.php' ); 
-?>
-<!DOCTYPE html>
-<html lang="en"><head>
+?><!DOCTYPE html>
+<html lang="en">
+<head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
+ 	<meta name="viewport" content="width=device-width">
 	<title>Moi je sais</title>
 	<link rel="stylesheet" href="./normalize.css">
 	<link rel="stylesheet" href="./style.css">
@@ -19,6 +20,5 @@
 		</blockquote>
 	</div>
 </div>
-Illustration © Malchev - Fotolia.com
 </body>
 </html>
