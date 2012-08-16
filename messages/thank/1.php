@@ -1,3 +1,3 @@
 De rien.<br>
-Part maintenant.<br>
+Pars maintenant.<br>
 <?php unset( $_SESSION[ 'step' ] ); ?>
