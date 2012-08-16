@@ -1,4 +1,4 @@
-Je vous pourquoi tu ne sais pas la réponse.<br>
+Je vois pourquoi tu ne sais pas la réponse.<br>
 Moi, je sais.<br>
 Mais ce sera trop compliqué à t'expliquer.<br>
 <br>
