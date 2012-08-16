@@ -19,5 +19,6 @@
 		</blockquote>
 	</div>
 </div>
+Illustration © Malchev - Fotolia.com
 </body>
 </html>
